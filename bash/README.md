@@ -2,4 +2,4 @@
 
 Command | Explanation
 -- | --
-[awk](https://github.com/hyeseonko/CheatSheet-Languages/edit/main/bash/awk.md) | TBA
+[awk](https://github.com/hyeseonko/CheatSheet-Languages/blob/main/bash/awk.md) | TBA
