@@ -1,3 +1,5 @@
-## Command: awk
 
-### How to remove lines included in one file (=inputfile1) from another file (=inputfile2)?
+
+Command | Explanation
+-- | --
+[awk](https://github.com/hyeseonko/CheatSheet-Languages/edit/main/bash/awk.md) | TBA
